@@ -40,7 +40,7 @@ The Food & Beverage department required consistent, data-driven insights to answ
  
  <h2>📊 SALES ANALYSIS: By Item Sales</h2>
  
-**SQL Query:** [By Item Sales Query](SQL_Queries/top_event_by_genre.sql)
+**SQL Query:** [By Item Sales Query](SQL_Queries/By_Item_Sales_Query.sql)
  
 <b>Business Scenario</b>
  
@@ -62,7 +62,7 @@ This query provides an item-level sales summary for every product sold during an
  
  <h2>🎟 EVENT PERFORMANCE: By Transaction</h2>
  
-**SQL Query:** [By Transaction Query](SQL_Queries/top_genre_by_category.sql)
+**SQL Query:** [By Transaction Query](SQL_Queries/By_Transaction_Query.sql)
  
 <b>Business Scenario</b>
  
@@ -84,7 +84,7 @@ This query returns the total number of transactions for each event, along with t
  
  <h2>🎤 EXECUTIVE REPORTING: Top Event by Genre</h2>
  
-**SQL Query:** [Top Event by Genre Query](SQL_Queries/year_to_date_item_sales.sql)
+**SQL Query:** [Top Event by Genre Query](SQL_Queries/Top_Event_by_Genre_Query.sql)
  
 <b>Business Scenario</b>
  
@@ -106,7 +106,7 @@ This multi-page query identifies the top-performing event for each of the compan
  
  <h2>🍿 PRODUCT ANALYTICS: Top Genre by Category</h2>
  
-**SQL Query:** [Top Genre by Category Query](SQL_Queries/top_item_by_category.sql)
+**SQL Query:** [Top Genre by Category Query](SQL_Queries/Top_Genre_by_Category_Query.sql)
  
 <b>Business Scenario</b>
  
@@ -128,7 +128,7 @@ This multi-page query identifies the top-selling item within a selected food and
  
  <h2>💰 EXECUTIVE DASHBOARD: Sales & Collections</h2>
  
-**SQL Query:** [Sales & Collections Query](SQL_Queries/top_item_by_category.sql)
+**SQL Query:** [Sales & Collections Query](SQL_Queries/Sales_and_Collections_Query.sql)
  
 <b>Business Scenario</b>
  
