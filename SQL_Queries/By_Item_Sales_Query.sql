@@ -1,5 +1,5 @@
 
-This query provides an item-level sales summary for each product sold during an event, along with the corresponding profit margin for a specified time period. The report enabled business leaders to evaluate product profitability, identify high-performing and low-performing items, and optimize pricing, inventory, and product offerings to maximize overall revenue.
+/*This query provides an item-level sales summary for each product sold during an event, along with the corresponding profit margin for a specified time period. The report enabled business leaders to evaluate product profitability, identify high-performing and low-performing items, and optimize pricing, inventory, and product offerings to maximize overall revenue.*/
 
 Select By_Item.Event,
 LAT.Event_Start as Date,
